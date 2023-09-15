@@ -1,15 +1,18 @@
 body{
-   background-color: white;
-   background-image: url();
-}
+  background-color: white;
+  background-image: url('https://png.pngtree.com/background/20210712/original/pngtree-vast-space-universe-blue-nebula-galaxy-background-picture-image_1178899.jpg');
+  background-size: cover;
+  }
 
-h1  {
+  h1  {
    color: red;
-   background-color: darkmagenta;
+   background-color: black;
 }
+   
+
 
 h3  {
-   color: aqua;
+   color:   blue;
 }
 
 a:link {
